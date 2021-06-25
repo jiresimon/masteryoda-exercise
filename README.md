@@ -1,1 +1,9 @@
 # masteryoda-exercise
+
+The masteryoda exercise uses a user defined function to reverse any given sentence...
+
+The split and join method helps to carry out the task effectively...
+
+Feel free to give your opinions...
+
+Keep coding & developing.
